@@ -1,0 +1,73 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Models and datasets (large files)
+models/
+datasets/
+*.bin
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+
+# Results (except JSON summaries)
+results/**/*.png
+results/**/*.csv
+results/**/*.md
+!results/comparison_report.md
+!results/domain_comparison_report.md
+!results/domain_summary_report.md
+
+# Hugging Face export
+hf_export/
+
+# Environment variables
+.env
+.env.local
+
+# Logs
+*.log
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Modal
+.modal/

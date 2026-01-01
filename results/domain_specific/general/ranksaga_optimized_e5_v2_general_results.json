@@ -1,0 +1,15 @@
+{
+  "model": "ranksaga-optimized-e5-v2-general",
+  "domain": "general",
+  "timestamp": "2026-01-01T08:08:20",
+  "results": {
+    "quora": {
+      "NDCG@10": 0.88264,
+      "NDCG@100": 0.89534,
+      "MAP@100": 0.85255,
+      "Recall@100": 0.99559,
+      "Precision@100": 0.01534
+    }
+  }
+}
+

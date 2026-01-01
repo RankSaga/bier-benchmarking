@@ -1,0 +1,29 @@
+{
+  "model": "ranksaga-optimized-e5-v2-scientific",
+  "domain": "scientific",
+  "timestamp": "2026-01-01T08:08:20",
+  "results": {
+    "scifact": {
+      "NDCG@10": 0.53242,
+      "NDCG@100": 0.57034,
+      "MAP@100": 0.48687,
+      "Recall@100": 0.85744,
+      "Precision@100": 0.0097
+    },
+    "nfcorpus": {
+      "NDCG@10": 0.39413,
+      "NDCG@100": 0.41768,
+      "MAP@100": 0.23848,
+      "Recall@100": 0.4784,
+      "Precision@100": 0.12628
+    },
+    "scidocs": {
+      "NDCG@10": 0.17318,
+      "NDCG@100": 0.26882,
+      "MAP@100": 0.12298,
+      "Recall@100": 0.4725,
+      "Precision@100": 0.0233
+    }
+  }
+}
+
