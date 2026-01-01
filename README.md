@@ -6,7 +6,7 @@
 
 This repository contains scripts, results, and documentation for RankSaga's comprehensive BEIR (Benchmarking IR) benchmarking study. We evaluated embedding model optimization techniques and achieved significant improvements, including **up to 51% improvement** on medical information retrieval tasks.
 
-## 🎯 Key Results
+## Key Results
 
 Our optimized models show substantial improvements across multiple BEIR datasets:
 
@@ -17,7 +17,7 @@ Our optimized models show substantial improvements across multiple BEIR datasets
 
 **📊 [View Detailed Results and Visualizations](https://ranksaga.com/blog/beir-benchmarking-ranksaga-optimization)**
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Using the Optimized Model
 
